@@ -1,3 +1,3 @@
-const nights = document.querySelector("select").value;
+const nights = document.getElementById("room");
 
-console.log(nights);
+console.log(nights);    
